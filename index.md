@@ -9,3 +9,7 @@ Er beherscht die Künste der dunklen Seite.
 * liebt seinen Sohn
 * mag Rebellen
 * liebt atemberaubene Auftritte
+
+Darth Vader sagte:
+
+> Luke, ich bin dein Vater.
