@@ -14,4 +14,4 @@ Darth Vader sagte:
 
 > Luke, ich bin dein Vater.
 
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fthewake.wikidot.com%2Fdarth-vader&psig=AOvVaw3Rw5LyEH359FHX-lDP19Dz&ust=1592852791767000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCFkrnNk-oCFQAAAAAdAAAAABAK"/>
+<img src="https://i.imgur.com/Pn171m9.jpg"/>
