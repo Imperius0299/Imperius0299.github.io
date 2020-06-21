@@ -13,3 +13,5 @@ Er beherscht die Künste der dunklen Seite.
 Darth Vader sagte:
 
 > Luke, ich bin dein Vater.
+
+<img src="https://i.imgur.com/Pn171m9.jpg"/>
